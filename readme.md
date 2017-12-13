@@ -1,3 +1,3 @@
 # Laravel PHP - Estoque do inicio ao fim
 
-Controle simples de estque
+Controle simples de estoque
